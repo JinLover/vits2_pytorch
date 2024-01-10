@@ -1,67 +1,67 @@
-Media:VO KO Barbara Ally at Low HP 01.ogg.wav|당신이 다치는건 원치 않아요.
-Media:VO KO Barbara Ally at Low HP 02.ogg.wav|제가 치료하게 해주세요. 부탁이에요!
-Media:VO KO Barbara Elemental Burst 02.ogg.wav|준비 됐나요?
-Media:VO KO Barbara Elemental Burst 03.ogg.wav|모두들, 힘내세요!
-Media:VO KO Barbara Elemental Skill 1 01.ogg.wav|내가, 모두를 지킬거야.
-Media:VO KO Barbara Elemental Skill 1 02.ogg.wav|기운 차리세요!
-Media:VO KO Barbara Elemental Skill 1 03.ogg.wav|공연, 시~작!
-Media:VO KO Barbara Fallen 01.ogg.wav|좀... 기운이 없어...
-Media:VO KO Barbara Fallen 02.ogg.wav|사람들 목소리가 들리지 않아...
-Media:VO KO Barbara Fallen 03.ogg.wav|언니...
-Media:VO KO Barbara Joining Party 01.ogg.wav|믿고, 제게 맏기세요.
-Media:VO KO Barbara Joining Party 02.ogg.wav|바바라도, 열심히 할게요.
-Media:VO KO Barbara Joining Party 03.ogg.wav|같이 힘내요!
-Media:VO KO Barbara Low HP 01.ogg.wav|전, 상관없어요!
-Media:VO KO Barbara Low HP 02.ogg.wav|모두를 위해, 전...
-Media:VO KO Barbara Low HP 03.ogg.wav|더 버틸수 있어요!
-Media:VO KO Barbara Opening Treasure Chest 01.ogg.wav|노래로도 이런 즐거움을 주고 싶어요.
-Media:VO KO Barbara Opening Treasure Chest 02.ogg.wav|반짝반짝해요!
-Media:VO KO Barbara Opening Treasure Chest 03.ogg.wav|후후훗! 운이 정말 좋은 날이네요.
-Media:VO KO Barbara Sprint End 01.ogg.wav|후~ 후. 괜찮아!
-Media:VO KO Barbara Sprint End 02.ogg.wav|침착해. 따라갈 수 있어!
-Media:VO KO Barbara Sprint Start 01.ogg.wav|바바라, 달려!
-Media:VO_KO_Barbara About Amber.ogg.wav|엠버가 성 밖으로 엄청나게 빨리 뛰어가는 걸 자주 본 적 있어요. 정찰기사는 정말 고생하는 것 같아요.
-Media:VO_KO_Barbara About Barbara.ogg.wav|날 이끄는 바람이시여, 힘에 부칠때 계속 앞으로 나갈 힘을 주소서. 유혹에 빠졌을 때, 선악을 구별할 지혜를 주소서. 불의에 마주쳤을 때, 싸울 용기를 주소서. 어머, 미안해요. 기도에 집중하느라 온 줄 모르고 있었어요. 후훗, 무슨 일인가요?
-Media:VO_KO_Barbara About Bennett.ogg.wav|베넷은 항상 상처투성이로 성당에 오지만, 조금도 신경쓰지 않는 듯 시원시원하게 웃기만 해요. 흐응, 그래도 자신을 아껴야 하는데...
-Media:VO_KO_Barbara About Diluc.ogg.wav|다이루크님? 지난번에 천사의 몫에서 공연할때, 계속 인상을 찌푸리고 있었어요. 제가 부르는 노래를 싫어하는 걸까요?
-Media:VO_KO_Barbara About Jean.ogg.wav|단장 대행님, 기사단의 리더. 모든 사람이 그녀를 좋아하죠. 네? 저요? 저, 저도 당연히 그녀를 존경해요!
-Media:VO_KO_Barbara About Lisa.ogg.wav|전, 늘 리사언니의 보살핌을 받아왔어요. 만약 리사 언니도 아이돌이 된다면, 전 분명히 목이 쉴 때까지 열심히 응원할 거에요! 흠, 이러면 다른 사람들이 놀라겠죠?
-Media:VO_KO_Barbara About Noelle.ogg.wav|노엘은 정말 귀여워요. 그녀는 온화하면서 친절해서, 같이있으면 정말 편안해져요. 아 맞다! 그녀가 만든 간식도 엄청 맛있어요! 향기로우면서 달콤한데, 몸에 좋기까지 하죠. 히힛!
-Media:VO_KO_Barbara About Rosaria.ogg.wav|로자리아 수녀님은 다가가기 어렵고, 기도에도 참여하지 않지만, 음... 그녀가 바람의 신을 믿고 있다는 것은 확신해요. 하, 하지만 그녀와 말할 용기가 나지 않네요...
-Media:VO_KO_Barbara About Us - Dreams.ogg.wav|사람들은 모두 자신만의 소원을 지니고 있어요. 모두의 소원을 모아 그들을 행복하게 해 주는 것. 이게 바로 신이 내게 내린 사명 아닐까요?
-Media:VO_KO_Barbara About Us - Hopes.ogg.wav|나와 함께해줘서 고마워요. 제 꿈에 한발 다가간것만 같아요. 앞으로도 잘 부탁해요!
-Media:VO_KO_Barbara About Varka.ogg.wav|제 소원은 주변 사람들에게 웃음을 주는 거에요. 당신을 도울 수 있어서 아주 기뻐요.
-Media:VO_KO_Barbara About Venti.ogg.wav|아버지는 바르카 대단장님과 함꼐 먼 길을 떠나셨는데, 도중에 어떤 일이 생길지... 아니에요, 대단장님은 북풍의 기사니까 괜찮을 거에요. 저도 기도할거니까요.
-Media:VO_KO_Barbara About the Vision.ogg.wav|벤티의 목소리는 엄청 아름다워요. 그래도 벤티가 부르는 노래랑 제가 잘하는 부분이랑 큰 차이점이 있어요. 사실, 몰래 따라한 적이 있었는데... 후훗, 그 멜로디는 진짜 너무 복잡해요.
-Media:VO_KO_Barbara Birthday.ogg.wav|여기, 제가 주는 선물이에요. 친필 그림 싸인. 후훗, 다음 신곡은 당신께 가장 먼저 들려드릴께요. 생일 축하해요!
-Media:VO_KO_Barbara Chat - Encouragement.ogg.wav|모두 애쓰고 있을 거에요. 그럼 우리도 게으름 피우면 안되잖아요.
-Media:VO_KO_Barbara Chat - Keeping One Refreshed.ogg.wav|기운이 없나요? 제가 만든 매운맛 음료수를 마셔보세요! 기운이 날거에요.
-Media:VO_KO_Barbara Chat - Sleepiness.ogg.wav|하암~ 이렇게 계속 서있으면, 졸릴텐데~
-Media:VO_KO_Barbara Favorite Food.ogg.wav|매콤안 어포, 좋아하시나요? 두개 있는데, 자! 하나 줄께요!
-Media:VO_KO_Barbara Feelings About Ascension - 01.ogg.wav|바바라의 춤! 실력, 업! 업!
-Media:VO_KO_Barbara Feelings About Ascension - 02.ogg.wav|지지해줘서 고마워요! 아, 안돼. 너무 흥분한 것 같아. 심장이 터질듯이 빨리 뛰고 있네요...!
-Media:VO_KO_Barbara Feelings About Ascension - 03.ogg.wav|계속 강해지는 비결을 알려줘요! 네? 당신만 믿으면 된다고요? 그건 안돼요, 저도 함꼐 노력해야 해요!
-Media:VO_KO_Barbara Feelings About Ascension - 04.ogg.wav|당신과 함께 여행하면서, 무대는 경계가 없다는 걸 느끼게 됐어요. 고마워요! 헤헷! 좋아, 같이 주문을 외워볼까요? 셋, 둘, 하나! 바바라, 달려!
-Media:VO_KO_Barbara Good Afternoon.ogg.wav|네? 제 노래, 듣고 싶다고요? 아, 미안해요, 아직 공연시간이 아니에요.
-Media:VO_KO_Barbara Good Evening.ogg.wav|디어헌터 레스토랑의 매운 농어를 먹고싶어요. 하지만 요새 배가... 윽!
-Media:VO_KO_Barbara Good Morning.ogg.wav|오늘도 힘내는 거에요!
-Media:VO_KO_Barbara Good Night.ogg.wav|수고했어요. 푹 쉬세요.
-Media:VO_KO_Barbara Hello.ogg.wav|바바라, 깜짝 등장! 치료는 제게 맡기세요. 실망시켜드리지 않을 거에요.
-Media:VO_KO_Barbara Hobbies.ogg.wav|사람들의 미소 가득한 얼굴이 절 지지해주고 있어요!
-Media:VO_KO_Barbara Interesting Things.ogg.wav|해바라기가 태양을 바라보고 있는 모습을 보고 있으면 눈이 부셔요. 사실, 엄마가 해바라기 무늬 드레스를 선물해 줬어요. 전 언제쯤이면 그걸 입고 공연할 수 있을까요?
-Media:VO_KO_Barbara Least Favorite Food.ogg.wav|전 쓴 음식은 별로 안좋아해요. 특히 여주는...
-Media:VO_KO_Barbara More About Barbara - 01.ogg.wav|기사분들이 검을 휘두르면서 싸우는 모습은 진짜 멋져요. 당신도 그렇게 생각하죠? 저도 검을 사용해 봤는데... 하아, 검술은 제 적성에 맞지 않는 것 같아요.
-Media:VO_KO_Barbara More About Barbara - 02.ogg.wav|전, 모두를 치유하고 싶다는 마음 덕분에 성당의 부제가 됐어요. 모두를 도울 수 있으면 좋겠어요.
-Media:VO_KO_Barbara More About Barbara - 03.ogg.wav|아이돌... 음, 엘리스씨한테 들은건데, 뛰어난 아이돌은 사람의 영혼을 치유할 수 있대요. 음, 암튼 그렇다고요!
-Media:VO_KO_Barbara More About Barbara - 04.ogg.wav|전, 매일매일 열심히 노력하고 있어요. 만약, 이 노력이 몬드성 모든 분들의 신뢰에 부합할수만 있다면..!
-Media:VO_KO_Barbara More About Barbara - 05.ogg.wav|전, 공연을 할 때마다 제가 몬드성의 모든 이들을 치유할수 있을까 라는 생각을 하곤 해요. 하지만, 당신을 보고 있으면, 저도 언젠간... 네? 최소한 당신을 치유했, 다, 고요? 후우, 이럴땐, 제가 지금까지 많은 사람을 치유했다고 해야 하는거 아닌가요? 하지만, 그 대답도 나름 괜찮네요.
-Media:VO_KO_Barbara Receiving a Gift - 01.ogg.wav|제 입에 이렇게 잘 맞는 요리는 흔치 않은데... 오늘은 행운의 날인가봐요.
-Media:VO_KO_Barbara Receiving a Gift - 02.ogg.wav|특별히 요리해주셔서 감사해요. 이번엔 제가 여행자님께 치유받았어요.
-Media:VO_KO_Barbara Receiving a Gift - 03.ogg.wav|아니... 별로에요.
-Media:VO_KO_Barbara Something to Share.ogg.wav|몬드성 바깥에 푸른 초원은 아무리 봐도 질리지 않아요. 근데 듣기론, 세상엔 파란 숲도 있다고 했어요. 바로 바다 건너편에 있는, 이나즈마 성 쪽 말이에요. 네, 전 조금 더 모아야겠네요. 네? 뭘 모으냐고요? 헤헤헷... 비밀이에요!
-Media:VO_KO_Barbara Troubles.ogg.wav|친구들이 계속 다치고 있어요. 제가 고통을 분담할 수 없지만, 그래도 최대한 열심히 치료해줄 거에요. 그럼 분명히 모두가 건강해질 수 있을 거니까요!
-Media:VO_KO_Barbara When It Rains.ogg.wav|이렇게 젖어도 괜찮을까요? 감기걸릴텐데...
-Media:VO_KO_Barbara When It Snows.ogg.wav|눈꽃이야! 아앗, 차가워!
-Media:VO_KO_Barbara When Thunder Strikes.ogg.wav|이렇게 날씨 좋은 날에는, 흐음... 경쾌한 노래가 어울려요!
-Media:VO_KO_Barbara When the Sun Is Out.ogg.wav|걱정마세요! 전, 아안날아가니까요오!
-Media:VO_KO_Barbara When the Wind Is Blowing.ogg.wav|우와!
+data/Media:VO KO Barbara Ally at Low HP 01.ogg.wav|당신이 다치는건 원치 않아요.
+data/Media:VO KO Barbara Ally at Low HP 02.ogg.wav|제가 치료하게 해주세요. 부탁이에요!
+data/Media:VO KO Barbara Elemental Burst 02.ogg.wav|준비 됐나요?
+data/Media:VO KO Barbara Elemental Burst 03.ogg.wav|모두들, 힘내세요!
+data/Media:VO KO Barbara Elemental Skill 1 01.ogg.wav|내가, 모두를 지킬거야.
+data/Media:VO KO Barbara Elemental Skill 1 02.ogg.wav|기운 차리세요!
+data/Media:VO KO Barbara Elemental Skill 1 03.ogg.wav|공연, 시~작!
+data/Media:VO KO Barbara Fallen 01.ogg.wav|좀... 기운이 없어...
+data/Media:VO KO Barbara Fallen 02.ogg.wav|사람들 목소리가 들리지 않아...
+data/Media:VO KO Barbara Fallen 03.ogg.wav|언니...
+data/Media:VO KO Barbara Joining Party 01.ogg.wav|믿고, 제게 맏기세요.
+data/Media:VO KO Barbara Joining Party 02.ogg.wav|바바라도, 열심히 할게요.
+data/Media:VO KO Barbara Joining Party 03.ogg.wav|같이 힘내요!
+data/Media:VO KO Barbara Low HP 01.ogg.wav|전, 상관없어요!
+data/Media:VO KO Barbara Low HP 02.ogg.wav|모두를 위해, 전...
+data/Media:VO KO Barbara Low HP 03.ogg.wav|더 버틸수 있어요!
+data/Media:VO KO Barbara Opening Treasure Chest 01.ogg.wav|노래로도 이런 즐거움을 주고 싶어요.
+data/Media:VO KO Barbara Opening Treasure Chest 02.ogg.wav|반짝반짝해요!
+data/Media:VO KO Barbara Opening Treasure Chest 03.ogg.wav|후후훗! 운이 정말 좋은 날이네요.
+data/Media:VO KO Barbara Sprint End 01.ogg.wav|후~ 후. 괜찮아!
+data/Media:VO KO Barbara Sprint End 02.ogg.wav|침착해. 따라갈 수 있어!
+data/Media:VO KO Barbara Sprint Start 01.ogg.wav|바바라, 달려!
+data/Media:VO_KO_Barbara About Amber.ogg.wav|엠버가 성 밖으로 엄청나게 빨리 뛰어가는 걸 자주 본 적 있어요. 정찰기사는 정말 고생하는 것 같아요.
+data/Media:VO_KO_Barbara About Barbara.ogg.wav|날 이끄는 바람이시여, 힘에 부칠때 계속 앞으로 나갈 힘을 주소서. 유혹에 빠졌을 때, 선악을 구별할 지혜를 주소서. 불의에 마주쳤을 때, 싸울 용기를 주소서. 어머, 미안해요. 기도에 집중하느라 온 줄 모르고 있었어요. 후훗, 무슨 일인가요?
+data/Media:VO_KO_Barbara About Bennett.ogg.wav|베넷은 항상 상처투성이로 성당에 오지만, 조금도 신경쓰지 않는 듯 시원시원하게 웃기만 해요. 흐응, 그래도 자신을 아껴야 하는데...
+data/Media:VO_KO_Barbara About Diluc.ogg.wav|다이루크님? 지난번에 천사의 몫에서 공연할때, 계속 인상을 찌푸리고 있었어요. 제가 부르는 노래를 싫어하는 걸까요?
+data/Media:VO_KO_Barbara About Jean.ogg.wav|단장 대행님, 기사단의 리더. 모든 사람이 그녀를 좋아하죠. 네? 저요? 저, 저도 당연히 그녀를 존경해요!
+data/Media:VO_KO_Barbara About Lisa.ogg.wav|전, 늘 리사언니의 보살핌을 받아왔어요. 만약 리사 언니도 아이돌이 된다면, 전 분명히 목이 쉴 때까지 열심히 응원할 거에요! 흠, 이러면 다른 사람들이 놀라겠죠?
+data/Media:VO_KO_Barbara About Noelle.ogg.wav|노엘은 정말 귀여워요. 그녀는 온화하면서 친절해서, 같이있으면 정말 편안해져요. 아 맞다! 그녀가 만든 간식도 엄청 맛있어요! 향기로우면서 달콤한데, 몸에 좋기까지 하죠. 히힛!
+data/Media:VO_KO_Barbara About Rosaria.ogg.wav|로자리아 수녀님은 다가가기 어렵고, 기도에도 참여하지 않지만, 음... 그녀가 바람의 신을 믿고 있다는 것은 확신해요. 하, 하지만 그녀와 말할 용기가 나지 않네요...
+data/Media:VO_KO_Barbara About Us - Dreams.ogg.wav|사람들은 모두 자신만의 소원을 지니고 있어요. 모두의 소원을 모아 그들을 행복하게 해 주는 것. 이게 바로 신이 내게 내린 사명 아닐까요?
+data/Media:VO_KO_Barbara About Us - Hopes.ogg.wav|나와 함께해줘서 고마워요. 제 꿈에 한발 다가간것만 같아요. 앞으로도 잘 부탁해요!
+data/Media:VO_KO_Barbara About Varka.ogg.wav|제 소원은 주변 사람들에게 웃음을 주는 거에요. 당신을 도울 수 있어서 아주 기뻐요.
+data/Media:VO_KO_Barbara About Venti.ogg.wav|아버지는 바르카 대단장님과 함꼐 먼 길을 떠나셨는데, 도중에 어떤 일이 생길지... 아니에요, 대단장님은 북풍의 기사니까 괜찮을 거에요. 저도 기도할거니까요.
+data/Media:VO_KO_Barbara About the Vision.ogg.wav|벤티의 목소리는 엄청 아름다워요. 그래도 벤티가 부르는 노래랑 제가 잘하는 부분이랑 큰 차이점이 있어요. 사실, 몰래 따라한 적이 있었는데... 후훗, 그 멜로디는 진짜 너무 복잡해요.
+data/Media:VO_KO_Barbara Birthday.ogg.wav|여기, 제가 주는 선물이에요. 친필 그림 싸인. 후훗, 다음 신곡은 당신께 가장 먼저 들려드릴께요. 생일 축하해요!
+data/Media:VO_KO_Barbara Chat - Encouragement.ogg.wav|모두 애쓰고 있을 거에요. 그럼 우리도 게으름 피우면 안되잖아요.
+data/Media:VO_KO_Barbara Chat - Keeping One Refreshed.ogg.wav|기운이 없나요? 제가 만든 매운맛 음료수를 마셔보세요! 기운이 날거에요.
+data/Media:VO_KO_Barbara Chat - Sleepiness.ogg.wav|하암~ 이렇게 계속 서있으면, 졸릴텐데~
+data/Media:VO_KO_Barbara Favorite Food.ogg.wav|매콤안 어포, 좋아하시나요? 두개 있는데, 자! 하나 줄께요!
+data/Media:VO_KO_Barbara Feelings About Ascension - 01.ogg.wav|바바라의 춤! 실력, 업! 업!
+data/Media:VO_KO_Barbara Feelings About Ascension - 02.ogg.wav|지지해줘서 고마워요! 아, 안돼. 너무 흥분한 것 같아. 심장이 터질듯이 빨리 뛰고 있네요...!
+data/Media:VO_KO_Barbara Feelings About Ascension - 03.ogg.wav|계속 강해지는 비결을 알려줘요! 네? 당신만 믿으면 된다고요? 그건 안돼요, 저도 함꼐 노력해야 해요!
+data/Media:VO_KO_Barbara Feelings About Ascension - 04.ogg.wav|당신과 함께 여행하면서, 무대는 경계가 없다는 걸 느끼게 됐어요. 고마워요! 헤헷! 좋아, 같이 주문을 외워볼까요? 셋, 둘, 하나! 바바라, 달려!
+data/Media:VO_KO_Barbara Good Afternoon.ogg.wav|네? 제 노래, 듣고 싶다고요? 아, 미안해요, 아직 공연시간이 아니에요.
+data/Media:VO_KO_Barbara Good Evening.ogg.wav|디어헌터 레스토랑의 매운 농어를 먹고싶어요. 하지만 요새 배가... 윽!
+data/Media:VO_KO_Barbara Good Morning.ogg.wav|오늘도 힘내는 거에요!
+data/Media:VO_KO_Barbara Good Night.ogg.wav|수고했어요. 푹 쉬세요.
+data/Media:VO_KO_Barbara Hello.ogg.wav|바바라, 깜짝 등장! 치료는 제게 맡기세요. 실망시켜드리지 않을 거에요.
+data/Media:VO_KO_Barbara Hobbies.ogg.wav|사람들의 미소 가득한 얼굴이 절 지지해주고 있어요!
+data/Media:VO_KO_Barbara Interesting Things.ogg.wav|해바라기가 태양을 바라보고 있는 모습을 보고 있으면 눈이 부셔요. 사실, 엄마가 해바라기 무늬 드레스를 선물해 줬어요. 전 언제쯤이면 그걸 입고 공연할 수 있을까요?
+data/Media:VO_KO_Barbara Least Favorite Food.ogg.wav|전 쓴 음식은 별로 안좋아해요. 특히 여주는...
+data/Media:VO_KO_Barbara More About Barbara - 01.ogg.wav|기사분들이 검을 휘두르면서 싸우는 모습은 진짜 멋져요. 당신도 그렇게 생각하죠? 저도 검을 사용해 봤는데... 하아, 검술은 제 적성에 맞지 않는 것 같아요.
+data/Media:VO_KO_Barbara More About Barbara - 02.ogg.wav|전, 모두를 치유하고 싶다는 마음 덕분에 성당의 부제가 됐어요. 모두를 도울 수 있으면 좋겠어요.
+data/Media:VO_KO_Barbara More About Barbara - 03.ogg.wav|아이돌... 음, 엘리스씨한테 들은건데, 뛰어난 아이돌은 사람의 영혼을 치유할 수 있대요. 음, 암튼 그렇다고요!
+data/Media:VO_KO_Barbara More About Barbara - 04.ogg.wav|전, 매일매일 열심히 노력하고 있어요. 만약, 이 노력이 몬드성 모든 분들의 신뢰에 부합할수만 있다면..!
+data/Media:VO_KO_Barbara More About Barbara - 05.ogg.wav|전, 공연을 할 때마다 제가 몬드성의 모든 이들을 치유할수 있을까 라는 생각을 하곤 해요. 하지만, 당신을 보고 있으면, 저도 언젠간... 네? 최소한 당신을 치유했, 다, 고요? 후우, 이럴땐, 제가 지금까지 많은 사람을 치유했다고 해야 하는거 아닌가요? 하지만, 그 대답도 나름 괜찮네요.
+data/Media:VO_KO_Barbara Receiving a Gift - 01.ogg.wav|제 입에 이렇게 잘 맞는 요리는 흔치 않은데... 오늘은 행운의 날인가봐요.
+data/Media:VO_KO_Barbara Receiving a Gift - 02.ogg.wav|특별히 요리해주셔서 감사해요. 이번엔 제가 여행자님께 치유받았어요.
+data/Media:VO_KO_Barbara Receiving a Gift - 03.ogg.wav|아니... 별로에요.
+data/Media:VO_KO_Barbara Something to Share.ogg.wav|몬드성 바깥에 푸른 초원은 아무리 봐도 질리지 않아요. 근데 듣기론, 세상엔 파란 숲도 있다고 했어요. 바로 바다 건너편에 있는, 이나즈마 성 쪽 말이에요. 네, 전 조금 더 모아야겠네요. 네? 뭘 모으냐고요? 헤헤헷... 비밀이에요!
+data/Media:VO_KO_Barbara Troubles.ogg.wav|친구들이 계속 다치고 있어요. 제가 고통을 분담할 수 없지만, 그래도 최대한 열심히 치료해줄 거에요. 그럼 분명히 모두가 건강해질 수 있을 거니까요!
+data/Media:VO_KO_Barbara When It Rains.ogg.wav|이렇게 젖어도 괜찮을까요? 감기걸릴텐데...
+data/Media:VO_KO_Barbara When It Snows.ogg.wav|눈꽃이야! 아앗, 차가워!
+data/Media:VO_KO_Barbara When Thunder Strikes.ogg.wav|이렇게 날씨 좋은 날에는, 흐음... 경쾌한 노래가 어울려요!
+data/Media:VO_KO_Barbara When the Sun Is Out.ogg.wav|걱정마세요! 전, 아안날아가니까요오!
+data/Media:VO_KO_Barbara When the Wind Is Blowing.ogg.wav|우와!
